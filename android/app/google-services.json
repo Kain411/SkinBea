@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "490514716278",
+    "firebase_url": "https://data-90f02-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "data-90f02",
+    "storage_bucket": "data-90f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490514716278:android:66cdd6b30631c2987e3157",
+        "android_client_info": {
+          "package_name": "com.skinbee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRfqMEwRJqdiagBdWonOrjygiQU2vwdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
